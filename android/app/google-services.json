@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551347783095",
+    "firebase_url": "https://strazca-revirov.firebaseio.com",
+    "project_id": "strazca-revirov",
+    "storage_bucket": "strazca-revirov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551347783095:android:bdd52a9798f08da320d432",
+        "android_client_info": {
+          "package_name": "com.dhorvath.strazca_revirov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551347783095-voami57jkal3od6cbl66hhg2q1du2lp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IjqdtLhcccJE4GUoYWdWKQM3p1e3WQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551347783095-voami57jkal3od6cbl66hhg2q1du2lp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
